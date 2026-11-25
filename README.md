@@ -28,4 +28,4 @@ Tools       Git, GitLab, Visual Studio, VS Code, Postman
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/quan-nguyen-dev/) · [emtenquan012@gmail.com](mailto:emtenquan012@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/quan-nguyen-dev/) · [nguyenhongquan.dev@gmail.com](mailto:nguyenhongquan.dev@gmail.com)
